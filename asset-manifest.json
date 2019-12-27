@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Tea-collection/static/js/main.4a7495d6.chunk.js",
+    "main.js.map": "/Tea-collection/static/js/main.4a7495d6.chunk.js.map",
+    "runtime-main.js": "/Tea-collection/static/js/runtime-main.21cd173b.js",
+    "runtime-main.js.map": "/Tea-collection/static/js/runtime-main.21cd173b.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Tea-collection/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.b8e34c0e.chunk.js": "/Tea-collection/static/js/2.b8e34c0e.chunk.js",
+    "static/js/2.b8e34c0e.chunk.js.map": "/Tea-collection/static/js/2.b8e34c0e.chunk.js.map",
+    "index.html": "/Tea-collection/index.html",
+    "precache-manifest.19a6b2bad59e2834626a76cfd06c65c9.js": "/Tea-collection/precache-manifest.19a6b2bad59e2834626a76cfd06c65c9.js",
+    "service-worker.js": "/Tea-collection/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Tea-collection/static/css/2.eb45ad44.chunk.css.map",
+    "static/js/2.b8e34c0e.chunk.js.LICENSE": "/Tea-collection/static/js/2.b8e34c0e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21cd173b.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.b8e34c0e.chunk.js",
+    "static/js/main.4a7495d6.chunk.js"
+  ]
+}
