@@ -32,7 +32,7 @@ class App extends Component {
         } else {
     return (
         <div className='tc'>
-            <h1>Robofriends</h1>
+            <h1>My Tea collection</h1>
             <SearchBox searchChange={this.onSearchChange} />
             <Scroll> <CardList robots={filteredRobots} />
                 </Scroll>
